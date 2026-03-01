@@ -64,4 +64,4 @@ Job Scam Detector addresses this problem by providing real-time AI-based job sca
 - Browser extension for real-time scam detection  
 - Training on larger and more diverse datasets  
 - Mobile application deployment  
-- Multilingual scam detection support    
+- Multilingual scam detection support  
