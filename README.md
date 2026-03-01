@@ -8,11 +8,11 @@ With the rapid rise in online recruitment scams, this platform empowers job seek
 https://harshitha29-job-scam-detector.hf.space
 
 🧠 Technology Stack
-Python
-Scikit-learn
-TF-IDF Vectorization
-Logistic Regression
-Gradio (Interactive Web Interface)
+Python, 
+Scikit-learn,
+TF-IDF Vectorization,
+Logistic Regression,
+Gradio (Interactive Web Interface),
 Hugging Face Spaces (Deployment)
 
 ⚙️ How It Works
@@ -20,32 +20,30 @@ The user enters a job description into the web interface.
 The text is transformed using TF-IDF vectorization.
 A trained Logistic Regression model analyzes patterns in the text.
 The system predicts whether the job post is:
-⚠ Scam
+⚠ Scam,
 ✅ Legitimate
 The result is displayed instantly to the user.
 
 📂 Project Structure
-model.py – Model training script
-app.py – Web application interface
-job_scam_model.pkl – Trained Machine Learning model
-vectorizer.pkl – TF-IDF vectorizer
-requirements.txt – Project dependencies
+model.py – Model training script,
+app.py – Web application interface,
+job_scam_model.pkl – Trained Machine Learning model,
+vectorizer.pkl – TF-IDF vectorizer,
+requirements.txt – Project dependencies.
 
 🎯 Problem Statement
 Online job fraud has become a major threat, leading to financial losses, identity theft, and exploitation of job seekers. There is a need for an intelligent, automated solution that can detect fraudulent job advertisements before users engage with them.
 ScamShield AI addresses this problem by providing real-time AI-based job scam detection.
 
 💡 Key Impact
-Protects job seekers from financial scams
-Promotes safe online recruitment practices
-Supports digital fraud awareness initiatives
-Can be integrated into job portals or government platforms
+Protects job seekers from financial scams,
+Promotes safe online recruitment practices,
+Supports digital fraud awareness initiatives,
+Can be integrated into job portals or government platforms.
 
 📌 Future Scope
-Integration with government employment portals
-Browser extension for real-time scam detection
-Training on larger and more diverse datasets
-
-Mobile application deployment
-
-Multilingual scam detection support
+Integration with government employment portals,
+Browser extension for real-time scam detection,
+Training on larger and more diverse datasets,
+Mobile application deployment,
+Multilingual scam detection support.
