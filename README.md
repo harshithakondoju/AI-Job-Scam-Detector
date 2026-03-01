@@ -1,7 +1,7 @@
-# ScamShield AI – Smart Job Fraud Detection Platform
+# Job Scam Detector – AI Powered Job Fraud Detection Platform
 
 ## 🚀 Overview
-ScamShield AI is an NLP-based intelligent web application designed to detect fraudulent job postings using Machine Learning.
+Job Scam Detector is an NLP-based intelligent web application designed to detect fraudulent job postings using Machine Learning.
 
 With the rapid rise in online recruitment scams, this platform empowers job seekers to verify whether a job advertisement is legitimate or potentially fraudulent — instantly and efficiently.
 
@@ -47,7 +47,7 @@ The result is displayed instantly to the user.
 ## 🎯 Problem Statement
 Online job fraud has become a major threat, leading to financial losses, identity theft, and exploitation of job seekers. There is a need for an intelligent, automated solution that can detect fraudulent job advertisements before users engage with them.
 
-ScamShield AI addresses this problem by providing real-time AI-based job scam detection.
+Job Scam Detector addresses this problem by providing real-time AI-based job scam detection.
 
 ---
 
@@ -64,4 +64,4 @@ ScamShield AI addresses this problem by providing real-time AI-based job scam de
 - Browser extension for real-time scam detection  
 - Training on larger and more diverse datasets  
 - Mobile application deployment  
-- Multilingual scam detection support  
+- Multilingual scam detection support    
